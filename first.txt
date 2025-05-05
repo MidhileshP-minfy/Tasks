@@ -1,6 +1,5 @@
 Hi
 This is Midhilesh Polisetty
 I am working on git and how to use github
-There are a total of 5 taska to be completed.
 
-This is the first edit I am doing after I made the commit.
+I just deleted few lines for the final commit.

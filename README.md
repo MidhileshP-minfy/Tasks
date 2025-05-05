@@ -25,6 +25,14 @@
 
 ##  Created a branch named `feature/update-readme`
 - Here, I made changes to `README` file
+
 ## Push to GitHub
 - After `add` and `commit` I pushed the branch to `GitHub`
 - Merged the branches into `main` branch
+
+## Pull Request in `GitHub`
+![Screenshot 2025-05-05 154926](https://github.com/user-attachments/assets/96b257be-e886-4836-b0c6-ffad9be95804)
+
+## Successfully Merged `feature/update-readme` and `main`
+![Screenshot 2025-05-05 155107](https://github.com/user-attachments/assets/f0f3a3ad-ebd3-41f3-aa16-d61c38926292)
+

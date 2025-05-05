@@ -13,3 +13,18 @@
 
 
 # Assignment 2 Summary
+
+## 🌐 GitHub Repository
+- https://github.com/MidhileshP-minfy/Tasks
+
+## `Push` Local Repository to `Github`
+- Using `git remote add origin` and `git push -u` 
+
+## Pull Updates from GitHub to local
+- After creating a `README.md` file I pulled the upadtes to `local`
+
+##  Created a branch named `feature/update-readme`
+- Here, I made changes to `README` file
+## Push to GitHub
+- After `add` and `commit` I pushed the branch to `GitHub`
+- Merged the branches into `main` branch
